@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="no_hp">Nomor Telephone</string>
+    <string name="password">Kata sandi</string>
+    <string name="cekbox">Saya telah membaca dan menyetujui perizinannya</string>
+    <string name="simpan">Simpan</string>
+</resources>
